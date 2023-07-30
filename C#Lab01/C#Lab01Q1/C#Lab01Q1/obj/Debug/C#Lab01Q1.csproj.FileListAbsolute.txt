@@ -1,0 +1,8 @@
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\bin\Debug\C#Lab01Q1.exe.config
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\bin\Debug\C#Lab01Q1.exe
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\bin\Debug\C#Lab01Q1.pdb
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\obj\Debug\C#Lab01Q1.csproj.AssemblyReference.cache
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\obj\Debug\C#Lab01Q1.csproj.SuggestedBindingRedirects.cache
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\obj\Debug\C#Lab01Q1.csproj.CoreCompileInputs.cache
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\obj\Debug\C#Lab01Q1.exe
+D:\BSc(Hons) SE\Year 1\Sem 2\Object Oriented Programming with C#\Practicals\Completed Practicals\Individual\C#Lab01\C#Lab01Q1\C#Lab01Q1\obj\Debug\C#Lab01Q1.pdb
